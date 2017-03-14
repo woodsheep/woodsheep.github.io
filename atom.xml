@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-03-14T14:11:58.296Z</updated>
+  <updated>2017-03-14T14:14:23.423Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,15 +16,16 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>The history of ampersand</title>
+    <title>的历史</title>
     <link href="http://yoursite.com/2017/03/14/ampersand/"/>
     <id>http://yoursite.com/2017/03/14/ampersand/</id>
     <published>2017-03-14T12:26:45.000Z</published>
-    <updated>2017-03-14T14:11:58.296Z</updated>
+    <updated>2017-03-14T14:14:23.423Z</updated>
     
-    <content type="html"><![CDATA[<p>“&amp;”这个符号如今已是司空见惯, 关于它的由来, 有一段有趣的历史值得一提.</p>
+    <content type="html"><![CDATA[<h3 id="“-amp-”的历史"><a href="#“-amp-”的历史" class="headerlink" title="“&amp;”的历史"></a>“&amp;”的历史</h3><p>“&amp;”这个符号如今已是司空见惯, 关于它的由来, 有一段有趣的历史值得一提.</p>
 <h4 id="怎么读"><a href="#怎么读" class="headerlink" title="怎么读"></a>怎么读</h4><p>“&amp;”有属于自己的名字, 不是and, 而是ampersand. 这个名字的由来其实很简单, 它曾经和 A-Z 一样, 也是字母表中的一员. 下面这张截取自1863年课本的字母表, 明确显示了第27个字母正是”&amp;”.</p>
 <center><br><img src="http://omrd7v5ux.bkt.clouddn.com/ampersand_Alphabet_with_ampersand.jpg" alt="ampersand_Alphabet_with_ampersand" title="包含ampersand的字母表" width="40%"><br></center>
+
 
 <p>而学生们在朗读的时候通常会念做</p>
 <blockquote>
@@ -41,8 +42,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;“&amp;amp;”这个符号如今已是司空见惯, 关于它的由来, 有一段有趣的历史值得一提.&lt;/p&gt;
-&lt;h4 id=&quot;怎么读&quot;&gt;&lt;a href=&quot;#怎么读&quot; class=&quot;headerlink&quot; title=&quot;怎么读&quot;&gt;&lt;/a&gt;怎么读&lt;/h4&gt;&lt;p&gt;“&amp;amp;”有属于自己的名字,
+      &lt;h3 id=&quot;“-amp-”的历史&quot;&gt;&lt;a href=&quot;#“-amp-”的历史&quot; class=&quot;headerlink&quot; title=&quot;“&amp;amp;”的历史&quot;&gt;&lt;/a&gt;“&amp;amp;”的历史&lt;/h3&gt;&lt;p&gt;“&amp;amp;”这个符号如今已是司空见惯, 关于它的由来, 有一段有趣的历史值
     
     </summary>
     

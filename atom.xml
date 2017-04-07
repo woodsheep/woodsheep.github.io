@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-03-14T14:45:16.098Z</updated>
+  <updated>2017-04-07T14:15:27.969Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,14 +16,54 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Serial Comma</title>
+    <link href="http://yoursite.com/2017/04/07/Serial-Comma/"/>
+    <id>http://yoursite.com/2017/04/07/Serial-Comma/</id>
+    <published>2017-04-07T13:39:20.000Z</published>
+    <updated>2017-04-07T14:15:27.969Z</updated>
+    
+    <content type="html"><![CDATA[<p>Serial Comma (也称 Oxford Comma, 牛津逗号) 是指在描述一列并立的事物时, 紧跟在倒数第二个项目之后的逗号. 比如下面这句话中</p>
+<blockquote>
+<p>The three most evil foods are durian, carrot, and broccoli.</p>
+</blockquote>
+<p>紧随 carrot 在之后的逗号, 就是一个 serial comma. 大多数人认为 serial comma 是不必要, 甚至是错的. 但是为了行文严谨, 在一些特定的情况下, 我们需要使用它来消除潜在的歧义.</p>
+<p>一个著名的例子是</p>
+<blockquote>
+<p>We invited the strippers, JFK, and Stalin (我们邀请了脱衣舞者, 肯尼迪, 和斯大林).</p>
+</blockquote>
+<p>如果没有 JFK 后面的逗号, 这句话就会变成</p>
+<blockquote>
+<p>We invited the strippers, JFK and Stalin.</p>
+</blockquote>
+<p>从而 strippers 可能被误认为指的是 JFK 和 Stalin. 另一个很好的例子是</p>
+<blockquote>
+<p>He was also a parliamentarian, an engineer, and a military commander.</p>
+</blockquote>
+<p>因为 serial comma 的存在, 这句话读起来才不会感觉 an engineer and a military commander 像在解释 parliamentarian 的含义一样. </p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Serial Comma (也称 Oxford Comma, 牛津逗号) 是指在描述一列并立的事物时, 紧跟在倒数第二个项目之后的逗号. 比如下面这句话中&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The three most evil foods are durian, c
+    
+    </summary>
+    
+    
+      <category term="Comma Queen" scheme="http://yoursite.com/tags/Comma-Queen/"/>
+    
+  </entry>
+  
+  <entry>
     <title>The story of ampersand</title>
     <link href="http://yoursite.com/2017/03/14/ampersand/"/>
     <id>http://yoursite.com/2017/03/14/ampersand/</id>
     <published>2017-03-14T12:26:45.000Z</published>
-    <updated>2017-03-14T14:45:16.098Z</updated>
+    <updated>2017-03-14T16:30:40.344Z</updated>
     
     <content type="html"><![CDATA[<p>“&amp;”这个符号如今已是司空见惯, 关于它的由来, 有一段有趣的历史值得一提.</p>
-<h4 id="怎么读"><a href="#怎么读" class="headerlink" title="怎么读"></a>怎么读</h4><p>“&amp;”有属于自己的名字, 不是and, 而是ampersand. 这个名字的由来其实很简单, 它曾经和 A-Z 一样, 也是字母表中的一员. 下面这张截取自1863年课本的字母表, 明确显示了第27个字母正是”&amp;”.</p>
+<h4 id="怎么读"><a href="#怎么读" class="headerlink" title="怎么读"></a>怎么读</h4><p>“&amp;”有属于自己的名字, 不是and, 而是ampersand. 这个名字的由来其实很简单, 它曾经和 A-Z 一样, 也是字母表中的一员. 下面这张截取自1863年课本的字母表, 明确显示第27个字母正是”&amp;”.</p>
 <p><img src="http://omrd7v5ux.bkt.clouddn.com/ampersand_Alphabet_with_ampersand.jpg" alt="ampersand_Alphabet_with_ampersand" title="包含ampersand的字母表" width="40%"></p>
 <p>而学生们在朗读的时候通常会念做</p>
 <blockquote>
